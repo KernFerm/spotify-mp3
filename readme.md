@@ -78,4 +78,4 @@ Enter the Spotify track or playlist URL: [paste Spotify URL here]
 
 ## Disclaimer
 
-Downloading and converting Spotify content may violate Spotify's Terms of Service. Use this tool responsibly and only for content you have the right to download.
+### Downloading and converting Spotify content may violate Spotify's Terms of Service. Use this tool responsibly and only for content you have the right to download.
