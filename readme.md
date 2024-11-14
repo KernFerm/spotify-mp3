@@ -16,6 +16,8 @@ A Python script that allows you to download songs and playlists from Spotify and
 ## Installation
 
 ### Step 1: Install Python Packages
+- make sure to have pet python install
+- [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
 
 Run the following command to install `spotDL`:
 - open up `cmd.exe` or `powershell`
@@ -23,8 +25,6 @@ Run the following command to install `spotDL`:
 ```
 pip install spotdl
 ```
-
-
 
 ## Installation
 
