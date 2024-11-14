@@ -61,7 +61,8 @@ or
 Enter the Spotify track or playlist URL when prompted.
 - copy and paste the entire `URL`
 
-```example
+# Example 
+```
 https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus?flow_ctx=f6ca8cb4-011f-4577-aa68-11e6ee014b32%3A1731636904#login?flow_ctx=f6ca8cb4-011f-4577-aa68-11e6ee014b32%3A1731636904
 ```
 - The downloaded and converted MP3 files will be saved in the current directory.
