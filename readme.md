@@ -69,9 +69,8 @@ https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus?flow_ctx=f6ca8cb4-011f-457
 Enter the Spotify track or playlist URL: [paste Spotify URL here]
 ```
 
-## License
+## LICENSE
 
-# LICENSE
 ## ***This project is proprietary and all rights are reserved by the author.***
 ## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
 ## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
