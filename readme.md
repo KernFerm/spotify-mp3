@@ -55,6 +55,8 @@ ffmpeg -version
 ```
 python main.py
 ```
+or 
+- Run the `launcher.bat` to run the `main.py` script to run the program.
 
 Enter the Spotify track or playlist URL when prompted.
 - copy and paste the entire `URL`
