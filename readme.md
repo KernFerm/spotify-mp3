@@ -73,6 +73,10 @@ https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus?flow_ctx=f6ca8cb4-011f-457
 Enter the Spotify track or playlist URL: [paste Spotify URL here]
 ```
 
+## How To Use
+
+![how-to-use](https://github.com/KernFerm/bubbles-the-dev-spotify-to-mp3/blob/main/how-to-use/screen_recording.gif)
+
 ## LICENSE
 
 ## ***This project is proprietary and all rights are reserved by the author.***
