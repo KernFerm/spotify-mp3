@@ -1,4 +1,4 @@
-# Spotify to MP3 Converter
+# Bubbles The Dev Spotify to MP3 Downloader
 
 A Python script that allows you to download songs and playlists from Spotify and convert them to MP3 format at 192kbps.
 
