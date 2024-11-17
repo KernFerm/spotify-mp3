@@ -15,7 +15,8 @@ A Python script that allows you to download songs and playlists from Spotify and
 
 ## Discord
 
-If you have any issues, join our [Discord](https://www.discord.fnbubbles420.org/invite) - Fnbubbles420 Org Community.  
+If you have any issues, join our [Discord](https://www.discord.fnbubbles420.org/invite) - Fnbubbles420 Org Community.
+- Head to the channel `free-music`
 - Ping `Bubbles` for support.
 
 ## Installation
