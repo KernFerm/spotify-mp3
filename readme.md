@@ -13,6 +13,11 @@ A Python script that allows you to download songs and playlists from Spotify and
 - **spotDL**: A command-line tool that downloads music from Spotify using YouTube as the audio source.
 - **FFmpeg**: Required for audio processing and conversion.
 
+## Discord
+
+If you have any issues, join our [Discord](https://www.discord.fnbubbles420.org/invite) - Fnbubbles420 Org Community.  
+- Ping `Bubbles` for support.
+
 ## Installation
 
 ### Step 1: Install Python Packages
