@@ -33,4 +33,4 @@ $RECYCLE.BIN/
 how-to-use/*
 
 # Batch scripts
-launcher.bat
+*.bat
